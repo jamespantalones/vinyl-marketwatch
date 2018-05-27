@@ -1,0 +1,13 @@
+.Splash {
+  position: fixed;
+  top: 100px;
+  left: 0;
+  right: 0;
+  height: 100%;
+  cursor: pointer;
+  pointer-events: auto;
+  opacity: 1;
+  overflow: hidden;
+  z-index: 99;
+  background: linear-gradient(-135deg, black, white);
+}
